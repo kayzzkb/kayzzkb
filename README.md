@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! meu nome é Kayllane, Sou estudante....</h2>
+<h2 align="left">Olá 👋! meu nome é Kayllane,</h2>
 
 ###
 
